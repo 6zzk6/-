@@ -1,1 +1,2 @@
-# BB-chick 1.0 2020.7.9
+# Update log
+BB-chick 1.0 - 2020.7.9
